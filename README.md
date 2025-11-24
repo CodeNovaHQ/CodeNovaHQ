@@ -67,8 +67,7 @@ A web platform connecting farmers and landowners for smooth agricultural land le
 
 ### **Tools & Platforms**
 - Git & GitHub  
-- VS Code  
-- Postman  
+- VS Code
 - WAMP Server  
 - Linux  
 
