@@ -76,7 +76,7 @@ A web platform connecting farmers and landowners for smooth agricultural land le
 ## 📫 Connect With Me
 
 - **LinkedIn:** *(https://www.linkedin.com/in/binil-george-babu-053367392)*  
-- **GitHub:** *(GitHub: github.com/CodeNovaHQ
+- **GitHub:** *(github.com/CodeNovaHQ
 )*  
 
 ---
